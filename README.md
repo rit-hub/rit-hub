@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<br/>
+
+<a href="https://github.com/rit-hub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rit-hub&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit-hub&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
 <!--
 **rit-hub/rit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
