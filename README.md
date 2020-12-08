@@ -1,6 +1,6 @@
 ### <h1 align="Center">  Hi There <img src="https://raw.githubusercontent.com/rit-hub/rit-hub/main/gifs/giphy.gif" width="40px"> , I'm Ritam <img src="https://raw.githubusercontent.com/rit-hub/rit-hub/main/gifs/Hi.gif" width="40px" /> </h1>
 
-<h2>Skilled In</h2>
+<!-- <h2>Skilled In</h2> -->
 
 <br/>
 
