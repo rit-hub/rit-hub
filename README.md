@@ -10,6 +10,10 @@
 </a>
 
 <br/>
+<br/>
+
+<a href="https://github.com/rit-hub/github-readme-activity-graph"><img alt="Ritam Charan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rit-hub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <!--
 **rit-hub/rit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
