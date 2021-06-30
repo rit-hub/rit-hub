@@ -4,6 +4,21 @@
 <!-- <h2>Skilled In</h2> -->
 
 <br/>
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Covid-19 Tracker](https://github.com/rit-hub/COVID-19-Tracker-App-using-React-and-Firebase)**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ritam.xyz)**
+
+- 📫 How to reach me **info.ritamcharan@gmail.com**
+
+- ⚡ Fun fact **I play games and watch movies very often.**
+
+<br/>
 
 <a href="https://github.com/rit-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rit-hub&theme=buefy&show_icons=true" />
