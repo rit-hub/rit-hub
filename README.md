@@ -45,7 +45,6 @@
 </div>
 <br/>
 <br/>
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/rit-hub)](https://github.com/rit-hub) 
 ### Languages known :computer:
 
 <br/>
