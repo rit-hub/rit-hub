@@ -20,6 +20,30 @@
 
 <br/>
 
+<h3 align="center">My latest videos on  <a href="https://youtube.com/cerberodev" target="_blank">my Youtube Channel</a></h3>
+
+<div align="center">
+
+<a href='https://youtu.be/SBw98tYercQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SBw98tYercQ/mqdefault.jpg' alt='Flutter Meetup' />
+</a>
+<a href='https://youtu.be/XY3xpb5wLec' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XY3xpb5wLec/mqdefault.jpg' alt='Workshop Flutter + Firebase #1 2020 clase 01' />
+</a>
+<a href='https://youtu.be/aprSJZ29Wos' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/aprSJZ29Wos/mqdefault.jpg' alt='#FlutterDayMeetups Managua - FlutterNi' />
+</a>
+<a href='https://youtu.be/rRmXWUoqWas' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rRmXWUoqWas/mqdefault.jpg' alt='GDG Arequipa - Meetup Firebase 2020' />
+</a>
+<a href='https://youtu.be/SSuLwKNaU_8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SSuLwKNaU_8/mqdefault.jpg' alt='FlutterDay Perú' />
+</a>
+<a href='https://youtu.be/DfA_SV7w0jA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DfA_SV7w0jA/mqdefault.jpg' alt='Flutter Peru, 2do meetup online!' />
+</a>
+</div>
+
 <a href="https://github.com/rit-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rit-hub&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit-hub&theme=buefy&layout=compact" />
