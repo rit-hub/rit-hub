@@ -25,7 +25,7 @@
 <div align="center">
 
 <a href='https://youtu.be/SBw98tYercQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SBw98tYercQ/mqdefault.jpg' alt='Flutter Meetup' />
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/CRYPTO.png' alt='Flutter Meetup' />
 </a>
 <a href='https://youtu.be/XY3xpb5wLec' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XY3xpb5wLec/mqdefault.jpg' alt='Workshop Flutter + Firebase #1 2020 clase 01' />
