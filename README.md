@@ -56,7 +56,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/c.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/php.png"></code>
+
 
 <br/>
 
