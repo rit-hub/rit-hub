@@ -43,6 +43,8 @@
   <img width='30%' src='https://img.youtube.com/vi/DfA_SV7w0jA/mqdefault.jpg' alt='Flutter Peru, 2do meetup online!' />
 </a>
 </div>
+<br/>
+<br/>
 
 <a href="https://github.com/rit-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rit-hub&theme=buefy&show_icons=true" />
