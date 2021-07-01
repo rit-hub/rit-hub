@@ -75,11 +75,10 @@
 <br/>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
 
-### Native Android & iOS & Web Apps :mobile: :computer:
-
+### Native Android & iOS & Web Apps :computer:
 
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flutter.png"></code>
 
 
 <br/>
