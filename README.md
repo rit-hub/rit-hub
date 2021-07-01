@@ -69,6 +69,17 @@
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
 
+### Machine Learning and Deep Learning Tools :computer:
+
+
+<br/>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
+
+### Native Android & iOS & Web Apps :mobile: :computer:
+
+
+<br/>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
 
 
 <br/>
