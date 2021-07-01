@@ -56,11 +56,11 @@
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/dart.png"></code>
 <br/>
-<br/>
+
 
 ### Web Technologies worked with :computer:
 
-<br/>
+
 <br/>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/css.png"></code>
