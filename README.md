@@ -4,7 +4,7 @@
 <!-- <h2>Skilled In</h2> -->
 
 <br/>
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://github.com/rit-hub/COVID-19-Tracker-App-using-React-and-Firebase)**
 
