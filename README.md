@@ -20,27 +20,27 @@
 
 <br/>
 
-<h3 align="center">My latest videos on  <a href="https://youtube.com/cerberodev" target="_blank">my Youtube Channel</a></h3>
+<h3 align="center">My Latest Works</h3>
 
 <div align="center">
 
-<a href='https://youtu.be/SBw98tYercQ' target='_blank'>
-  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/CRYPTO.png' alt='Flutter Meetup' />
+<a href='https://crypto-king-tracker.web.app/' target='_blank'>
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/CRYPTO.png' alt='Crypto Tracker' />
 </a>
-<a href='https://youtu.be/XY3xpb5wLec' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XY3xpb5wLec/mqdefault.jpg' alt='Workshop Flutter + Firebase #1 2020 clase 01' />
+<a href='https://covid19-tracker-sk-rit.herokuapp.com/' target='_blank'>
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/Covid-19.png' alt='Covid Tracker' />
 </a>
-<a href='https://youtu.be/aprSJZ29Wos' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aprSJZ29Wos/mqdefault.jpg' alt='#FlutterDayMeetups Managua - FlutterNi' />
+<a href='https://play.google.com/store/apps/details?id=com.ritam.fit_check' target='_blank'>
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/bmi.png' alt='Bmi Calculator' />
 </a>
-<a href='https://youtu.be/rRmXWUoqWas' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rRmXWUoqWas/mqdefault.jpg' alt='GDG Arequipa - Meetup Firebase 2020' />
+<a href='https://ritam.xyz/' target='_blank'>
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/PORTFOLIO.png' alt='Portfolio' />
 </a>
-<a href='https://youtu.be/SSuLwKNaU_8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SSuLwKNaU_8/mqdefault.jpg' alt='FlutterDay Perú' />
+<a href='https://mywhatsapp-985cc.web.app/' target='_blank'>
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/Whatsapp-Web.png' alt='Whatsapp Web Clone' />
 </a>
-<a href='https://youtu.be/DfA_SV7w0jA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DfA_SV7w0jA/mqdefault.jpg' alt='Flutter Peru, 2do meetup online!' />
+<a href='https://play.google.com/store/apps/details?id=com.ritam.xylophone' target='_blank'>
+  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/Xylophone.png' alt='Xylophone App' />
 </a>
 </div>
 <br/>
