@@ -98,12 +98,9 @@
 
 <p align="center">
   <a href="mailto:info.ritamcharan@gmail.com"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/gmail.svg" width="30px" alt="mail"></a>
-  
   <a href="https://github.com/rit-hub"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/github.svg" width="30px" alt="mail"></a>
   <a href="https://www.linkedin.com/in/ritam-charan/"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/linkedin.svg" width="30px" alt="LinkedIn"></a>
-  
   <a href="https://discord.com/users/Noob×Hawk#1438"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/discord.svg" width="30px" alt="Discord"></a>
-  
   <a href="https://twitter.com/ritam_charan"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/twitter.svg" width="30px" alt="Twitter"></a>
   <a href="https://ritam.xyz/"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/site.svg" width="30px" alt="site"></a>
 </p>
