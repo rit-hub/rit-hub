@@ -94,6 +94,7 @@
 
 <a href="https://github.com/rit-hub/github-readme-activity-graph"><img alt="Ritam Charan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rit-hub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+
 <p align="center">
   
  <a href="mailto:info.ritamcharan@gmail.com"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
@@ -108,8 +109,10 @@
   
   <a href="https://ritam.xyz/"><img src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/8e56efbd0f6e72487681b2be475cb86406aabe2c/skill/contact/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
+
 <br/>
 <br/>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rit-hub/count.svg" />
