@@ -81,7 +81,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/keras.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/numpy.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pandas.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sklearn.png"></code>
 
 ### Native Android & iOS & Web Apps :computer:
