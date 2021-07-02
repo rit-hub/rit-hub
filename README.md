@@ -72,6 +72,19 @@
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/express.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flask.png"></code>
+
+
+### Databases and Cloud Technologies :computer:
+
+
+<br/>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/firebase.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/aws.png"></code>
+
 
 ### Machine Learning and Deep Learning Tools :computer:
 
