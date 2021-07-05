@@ -90,17 +90,17 @@
 
 3030
 <br/>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/keras.png"></code>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/numpy.png"></code>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pandas.png"></code>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.svg"></code>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sklearn.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/keras.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/numpy.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pandas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sklearn.png"></code>
 
 ### Native Android & iOS & Web Apps :computer:
 
 <br/>
-<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flutter.png"></code>
 
 ### IDEs worked with :computer:
 <br/>
