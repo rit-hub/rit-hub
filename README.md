@@ -50,13 +50,13 @@
 ### Languages known :computer:
 
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/c.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/dart.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/php.png"></code>
 
 
 <br/>
@@ -66,57 +66,57 @@
 
 
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/bootstrap.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/express.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flask.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/express.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flask.png"></code>
 
 
 ### Databases and Cloud Technologies :computer:
 
 
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/aws.png"></code>
 
 
 ### Machine Learning and Deep Learning Tools :computer:
 
-
+3030
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/keras.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/numpy.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pandas.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sklearn.png"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/keras.png"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/numpy.png"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pandas.png"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.svg"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sklearn.png"></code>
 
 ### Native Android & iOS & Web Apps :computer:
 
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flutter.png"></code>
+<code><img height="3030" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/flutter.png"></code>
 
 ### IDEs worked with :computer:
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/vscode.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/android.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pycharm.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/intellij.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/netbeans.jpg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sublime.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/atom.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/brackets.jpg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/codeblocks.jpg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/anaconda.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/spyder.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/jupyter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/colab.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/vscode.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pycharm.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/intellij.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/netbeans.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sublime.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/atom.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/brackets.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/codeblocks.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/anaconda.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/spyder.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/jupyter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/colab.png"></code>
 
 
 <br/>
