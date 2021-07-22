@@ -88,7 +88,7 @@
 
 ### Machine Learning and Deep Learning Tools :computer:
 
-3030
+
 <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/keras.png"></code>
