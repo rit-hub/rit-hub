@@ -96,6 +96,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/pandas.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/matplotlib.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/sklearn.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/skill/opencv.png"></code>
 
 ### Native Android & iOS & Web Apps :computer:
 
