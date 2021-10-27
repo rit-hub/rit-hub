@@ -125,8 +125,8 @@
 <br/>
 <br/>
 <a href="https://github.com/rit-hub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rit-hub&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit-hub&theme=buefy&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rit-hub&theme=buefy&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit-hub&theme=buefy&layout=compact" />
 </a>
 
 <br/>
